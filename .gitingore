@@ -1,0 +1,13 @@
+# Environment variables
+.env
+.env.*
+
+# Go build artifacts
+/bin
+/tmp
+*.exe
+*.out
+
+# Editor
+.vscode/
+.idea/
